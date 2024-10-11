@@ -7,8 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/_yash_ankush" target="blank"><img src="https://img.shields.io/twitter/follow/_yash_ankush?logo=twitter&style=for-the-badge" alt="_yash_ankush" /></a> </p>
 
-- 🌱 I’m currently learning **React** 
-- 💬 Ask me about **MERN, Android**
+- 🌱 I’m currently learning **Kotlin** 
+- 💬 Ask me about **Android, Java, C++**
 
 - 📫 How to reach me **yashankush20@gmail.com**
 
