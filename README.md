@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/_yash_ankush" target="blank"><img src="https://img.shields.io/twitter/follow/_yash_ankush?logo=twitter&style=for-the-badge" alt="_yash_ankush" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning** 
+- 🌱 I’m currently learning **Spring boot**
 - 💬 Ask me about **Android, Java, C++**
-
+- ⚡ Fun fact **"Why do Java developers wear glasses? Because they don’t C#." 🤓**
 - 📫 How to reach me **yashankush20@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
