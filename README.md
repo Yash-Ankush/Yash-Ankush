@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Yash Ankush</h1>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenV5ZTZ3MzU0Y202dmx0enlkdnh5ZHFkczdkNHhiZWszeDBndW1rNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif">
 
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=yash-ankush&label=Profile%20views&color=0e75b6&style=flat" alt="yash-ankush" /> 
+</p>
+
 # 💫 About Me:
-- 🌱 I’m currently learning **Spring boot**
-- 💬 Ask me about **Android, Java, C++**
-- ⚡ Fun fact **Why do Java developers wear glasses? Because they don’t C# 🤓**
-- 📫 How to reach me **yashankush20@gmail.com**
+- 🌱 I’m currently learning **Spring boot**  
+- 💬 Ask me about **Android, Java, C++**  
+- ⚡ Fun fact: **Why do Java developers wear glasses? Because they don’t C# 🤓**  
+- 📫 How to reach me: **yashankush20@gmail.com**
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_yash_ankush) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-ankush) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_yash_ankush) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashankush20@gmail.com) 
@@ -17,6 +23,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yash-ankush&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-ankush&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="200"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash-ankush&theme=dark&hide_border=false" alt="GitHub Streak Stats" height="200"/>
+  
 </p>
 
 
